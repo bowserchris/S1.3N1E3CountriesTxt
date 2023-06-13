@@ -152,7 +152,7 @@ Denmark Copenhagen
 Estonia Tallin
 Finland Helsinki
 France Paris
-Georgia Atlanta
+Georgia Atlanta	//Tbilisi es el capital del pais, esto es el capital del estado en USA
 Germany Berlin
 Greece Athens
 Hungary Budapest
