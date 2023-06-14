@@ -4,8 +4,8 @@ import java.util.*;
 
 public class App {
 	
-	final static String filePath = "C:\\Users\\userBard64\\Documents\\countries.txt";	//el input del texto countries.txt. esta fuera del main para que lo tiene accesso todo el app
-	final static String outputFilePath = "C:\\Users\\userBard64\\Documents\\classificacio.txt"; //espero que esto sea el output del texto classificacion con el nombre y score. esta fuera del main para que lo tiene accesso todo el app
+	final static String filePath = "countries.txt";	//el input del texto countries.txt. esta fuera del main para que lo tiene accesso todo el app
+	final static String outputFilePath = "classificacio.txt"; //espero que esto sea el output del texto classificacion con el nombre y score. esta fuera del main para que lo tiene accesso todo el app
 
 	public static void main(String[] args) {
 		
